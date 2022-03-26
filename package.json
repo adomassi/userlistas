@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@rpldy/upload-paste": "^0.18.0",
+    "@rpldy/uploady": "^0.18.0",
+    "axios": "^0.26.1"
+  }
+}
